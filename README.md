@@ -1,0 +1,2 @@
+Sistema com dois Arduinos que se comunicam via serial. O primeiro lê a temperatura (sensor LM35) e mostra no LCD. Quando ultrapassa 30°C, envia um comando para o segundo Arduino, que aciona um servo motor.
+Link do projeto no tinkercad : https://www.tinkercad.com/things/3cEWAxRruwl-projeto-sensor-de-temperatura-pt2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=rHzm_Lo-Dk42yxWFvPHrVOdp-QTbWLBdEs90fBw6AQM
